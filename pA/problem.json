@@ -1,7 +1,7 @@
 {
     "contest_name": "第十二屆國中生暑期程式設計營進階班練習賽",
     "problem_label": "A",
-    "name": "TJPC12-Adv XOR",
+    "name": "TJPC12-Adv-XOR",
     "title": "XOR Min",
     "memory_limit": 512,
     "time_limit": 1.0,
