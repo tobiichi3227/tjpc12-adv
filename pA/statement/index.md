@@ -17,7 +17,8 @@ TODO: 輸入說明
 TODO: 輸出說明
 
 ## 輸入限制
- - TODO: 輸入限制
+- $1 \leq n \leq 20$
+- $1 \leq a_i \leq 2^{31}$
 
 ## 子任務
 \subtasks

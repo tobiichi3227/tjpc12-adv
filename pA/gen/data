@@ -4,5 +4,9 @@
 manual example-1.in
 
 @subtask full
-gen	20
-gen	30
+manual full-1-manual.in
+gen	1
+gen	2
+gen 3
+gen 4
+gen 5
