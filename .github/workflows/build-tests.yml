@@ -26,7 +26,9 @@ on:
 jobs:
   run:
     uses: TNFSH-Programming-Contest/tps-actions/.github/workflows/build-tests.yml@main
+    uses: tobiichi3227/tps-actions/.github/workflows/build-tests.yml@main
     with:
       input: ${{ github.event.inputs.input }}
       output: ${{ github.event.inputs.output }}
       solutions: ${{ github.event.inputs.solutions }}
+      runs-on: 'self-hosted'
