@@ -30,8 +30,8 @@
 | | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- |
 | A | 100<br>無額外限制 |
-| B | 12<br>0\le n\le  5\times 10^2 | 30<br>0\le n\le  5\times 10^3 | 5<br>0\le n\le  2\times 10^4 | 39<br>0\le n\le  2\times 10^5 | 13<br>無限制 |
-| C | 5<br>d \le 10^3, n = 0 | 13<br>d \le 10^3 | 20<br>n = 0 | 20<br>n = 1 | 41<br>無額外限制 |
+| B | 12<br>$0\le n\le  5\times 10^2$ | 30<br>$0\le n\le  5\times 10^3$ | 5<br>$0\le n\le  2\times 10^4$ | 39<br>$0\le n\le  2\times 10^5$ | 13<br>無限制 |
+| C | 5<br>$d \le 10^3, n = 0$ | 13<br>$d \le 10^3$ | 20<br>$n = 0$ | 20<br>$n = 1$ | 41<br>無額外限制 |
 | D | 100<br>無額外限制 |
 | E | 100<br>無額外限制 |
 | F | 100<br>無額外限制 |
