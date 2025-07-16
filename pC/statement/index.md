@@ -2,7 +2,7 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=2in]{https://wall.bahamut.com.tw/ct/56/rngUR5IDcUMG0UkfLiLLo5FSAT2XdzE7DSJNIUJb8E7h9LR4AW4RT.JPG}
+\includegraphics[width=2in]{rngUR5IDcUMG0UkfLiLLo5FSAT2XdzE7DSJNIUJb8E7h9LR4AW4RT.jpeg}
 \caption{升級成功的帥潮 (圖: 我獨自升級)}
 \end{figure}
 
