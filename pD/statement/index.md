@@ -8,6 +8,9 @@
 
 TODO: 題目敘述
 
+($s$)
+($i, \space j$)
+
 \clearpage
 
 ## 輸入
