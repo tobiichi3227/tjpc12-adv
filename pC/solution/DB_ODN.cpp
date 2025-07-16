@@ -42,6 +42,7 @@ int main()
                 mx[idx]=tmp;
                 s-=mn;
             }
+            idx=n;
         }
         if(s*s>=x)
         {
@@ -50,5 +51,4 @@ int main()
         }
     }
     cout << -1;
-
 }
