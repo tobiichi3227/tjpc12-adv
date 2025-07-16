@@ -21,7 +21,7 @@ int main()
         cin >> tmp;
         pq.push(tmp);
         s+=tmp*2;
-        if(pq.size()>d)
+        if(pq.size()>n)
         {
             s-=pq.top();
             pq.pop();
