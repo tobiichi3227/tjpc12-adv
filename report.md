@@ -7,10 +7,10 @@
 
 | | A | B | C | D | E | F |
 | --- | --- | --- | --- | --- | --- | --- |
-| contest_name |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:x:](pC/problem.json) | [:x:](pD/problem.json) | [:x:](pE/problem.json) | [:x:](pF/problem.json) |
+| contest_name |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:white_check_mark:](pC/problem.json) | [:x:](pD/problem.json) | [:x:](pE/problem.json) | [:x:](pF/problem.json) |
 | problem_label |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:white_check_mark:](pC/problem.json) | [:white_check_mark:](pD/problem.json) | [:white_check_mark:](pE/problem.json) | [:white_check_mark:](pF/problem.json) |
-| name |  [:white_check_mark:](pA/problem.json)<br>TJPC12-Adv-XOR | [:white_check_mark:](pB/problem.json)<br>TJPC12-Adv-Sort | [:x:](pC/problem.json) | [:x:](pD/problem.json) | [:x:](pE/problem.json) | [:x:](pF/problem.json) |
-| title |  [:white_check_mark:](pA/problem.json)<br>XOR Min | [:white_check_mark:](pB/problem.json)<br>最短排序 | [:x:](pC/problem.json) | [:x:](pD/problem.json) | [:x:](pE/problem.json) | [:x:](pF/problem.json) |
+| name |  [:white_check_mark:](pA/problem.json)<br>TJPC12-Adv-XOR | [:white_check_mark:](pB/problem.json)<br>TJPC12-Adv-Sort | [:white_check_mark:](pC/problem.json)<br>Leveing_Way | [:x:](pD/problem.json) | [:x:](pE/problem.json) | [:x:](pF/problem.json) |
+| title |  [:white_check_mark:](pA/problem.json)<br>XOR Min | [:white_check_mark:](pB/problem.json)<br>最短排序 | [:white_check_mark:](pC/problem.json)<br>升級之道 | [:x:](pD/problem.json) | [:x:](pE/problem.json) | [:x:](pF/problem.json) |
 | memory_limit |  512 | 512 | 512 | 512 | 512 | 512 |
 | time_limit |  1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0 |
 | has_checker |  False | False | False | False | False | False |
