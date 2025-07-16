@@ -9,7 +9,7 @@ int main()
     cout.tie(0);
  
     ll s, d, n, x, tmp;
-    cin >> s >> d > n >> x;
+    cin >> s >> d >> n >> x;
     if(s>=x)
     {
         cout << 0;
