@@ -12,13 +12,16 @@ $i<j$ 且 $a[i]>a[j]$
 
 ## 輸入
 
-$N (1 \le N \le 2e6), X (1 \le X \le $
+$N \ \ X$
+
+$A_1,\ A_2,\ A_3,\ ... ,\ A_N$
 
 ## 輸出
-TODO: 輸出說明
+
+至少要排序前面幾個元素的個數
 
 ## 輸入限制
- - TODO: 輸入限制
+$N \space (1 \le N \le 2\times 10^6), \space X \space (0 \le X \le 10^{13})$
 
 ## 子任務
 \subtasks
@@ -30,3 +33,6 @@ TODO: 輸出說明
 
 ## 範例輸出
 \testfile{0-01.out}
+
+## 範例測資解釋
+
