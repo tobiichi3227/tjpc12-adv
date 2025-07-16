@@ -1,8 +1,8 @@
 {
-	"contest_name": "TODO: 競賽名稱",
+	"contest_name": "第十二屆國中生暑期程式設計營進階班練習賽",
 	"problem_label": "C",
-	"name": "TODO:_English_short_name",
-	"title": "TODO: 題目名稱",
+	"name": "Leveing_Way",
+	"title": "升級之道",
 	"memory_limit": 512,
 	"time_limit": 1.0,
 	"type": "Batch",
