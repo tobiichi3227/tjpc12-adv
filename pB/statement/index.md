@@ -1,14 +1,17 @@
-# TODO: 題目名稱
+# 最小排序
 
-<!-- \begin{figure}[h]
-\centering
-\includegraphics[width=2in]{TODO.jpg}
-\caption{TODO: 圖片說明}
-\end{figure} -->
+## 題目敘述
 
-TODO: 題目敘述
+給一個大小為 $N$ 的數列，
 
-\clearpage
+**逆序數的定義:**
+
+在一個陣列中，若有一對索引 $(i, \space j)$ 滿足以下兩個條件：
+
+$$
+i<j
+a[i]>a[j]
+$$
 
 ## 輸入
 TODO: 輸入說明
