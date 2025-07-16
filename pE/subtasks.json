@@ -1,6 +1,5 @@
 {
     "global_validators": [
-        "validator.cpp"
     ],
     "subtasks": {
         "samples": {
@@ -9,9 +8,21 @@
             "text": "範例輸入輸出",
             "validators": []
         },
-        "full": {
+        "brute": {
             "index": 1,
-            "score": 100,
+            "score": 5,
+            "text": "$N \\le 10,\\ \\sum_{i=1}^{N}{H_i} \\lt 10$",
+            "validators": []
+        },
+        "dp-n-gas": {
+            "index": 2,
+            "score": 37,
+            "text": "$N \\le 10,\\ \\sum_{i=1}^{N}{max\\{H_i, T_i\\}} \\le 100$",
+            "validators": []
+        },
+        "dp-n-joy": {
+            "index": 3,
+            "score": 58,
             "text": "無額外限制",
             "validators": []
         }
