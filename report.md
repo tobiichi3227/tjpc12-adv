@@ -33,7 +33,7 @@
 | B | 12<br>$0\le n\le  5\times 10^2$ | 30<br>$0\le n\le  5\times 10^3$ | 5<br>$0\le n\le  2\times 10^4$ | 39<br>$0\le n\le  2\times 10^5$ | 13<br>無限制 |
 | C | 5<br>$d \le 10^3, n = 0$ | 13<br>$d \le 10^3$ | 20<br>$n = 0$ | 20<br>$n = 1$ | 41<br>無額外限制 |
 | D | 100<br>無額外限制 |
-| E | 5<br>$N \le 10,\ \sum_{i=1}^{N} H_i \lt 10$ | 37<br>$N \le 10,\ \sum_{i=1}^{N} max\{H_i,\ T_i\} \le 100$ | 58<br>無額外限制 |
+| E | 5<br>$N \le 10,\ \displaystyle\sum_{i=1}^{N} H_i \lt 10$ | 37<br>$N \le 10,\ \displaystyle\sum_{i=1}^{N} max\{H_i,\ T_i\} \le 100$ | 58<br>無額外限制 |
 | F | 100<br>無額外限制 |
 
 <!-- subtasks end -->
