@@ -11,13 +11,13 @@
         "brute": {
             "index": 1,
             "score": 5,
-            "text": "$N \\le 10,\\ \\displaystyle\\sum{H_i} \\lt 10$",
+            "text": "$N \\le 10,\\ \\displaystyle\\sum_{i=1}^{N} H_i < 10$",
             "validators": []
         },
         "dp-n-gas": {
             "index": 2,
             "score": 37,
-            "text": "$N \\le 10,\\ \\displaystyle\\sum{max\\{H_i,\\ T_i\\}} \\le 100$",
+            "text": "$N \\le 10,\\ \\displaystyle\\sum_{i=1}^{N} max\\{H_i,\\ T_i\\} \\le 100$",
             "validators": []
         },
         "dp-n-joy": {
