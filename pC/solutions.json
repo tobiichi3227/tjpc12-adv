@@ -1,6 +1,12 @@
 {
-	"DB_AC": {
+	"DB_AC.cpp": {
 		"verdict": "model_solution"
+	},
+	"wonderhoi_AC.cpp": {
+		"verdict": "correct"
+	},
+	"DB_ODN.cpp": {
+		"verdict": "correct",
+		"except": {"d": "time_limit"}
 	}
-	
 }
