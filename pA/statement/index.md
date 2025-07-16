@@ -1,17 +1,18 @@
-# TODO: 題目名稱
+# pA. Min XOR Sum
 
-<!-- \begin{figure}[h]
-\centering
-\includegraphics[width=2in]{TODO.jpg}
-\caption{TODO: 圖片說明}
-\end{figure} -->
+## 題目敘述
 
-TODO: 題目敘述
+恭喜各位完成為期4天的程設營進階班課程，想必各位現在一定是迫不及待想要練習新題目了!
 
-\clearpage
+因此我們提供了一個開胃小菜作為本比賽的開始!
+
+
 
 ## 輸入
-TODO: 輸入說明
+
+第一行給定一個數字 $N$ ， 代表數列的長度
+
+第二行有 $N$ 個整數 $Ai, \space (1\le i \le N) $
 
 ## 輸出
 TODO: 輸出說明
