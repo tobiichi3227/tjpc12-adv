@@ -1,6 +1,6 @@
 {
     "global_validators": [
-
+        "validator.cpp 2000000"
     ],
     "subtasks": {
         "samples": {
@@ -12,32 +12,32 @@
         "n3": {
             "index": 1,
             "score": 12,
-            "validators": []
             "text": "$1\\le n\\le  5\\times 10^2$",
+            "validators": ["validator.cpp 500"]
         },
         "n2logn": {
             "index": 2,
             "score": 30,
-            "validators": []
             "text": "$1\\le n\\le  5\\times 10^3$",
+            "validators": ["validator.cpp 5000"]
         },
         "n2": {
             "index": 3,
             "score": 5,
-            "validators": []
+            "text": "$1\\le n\\le  2\\times 10^4$",
             "validators": ["validator.cpp 20000"]
         },
         "nlog2n": {
             "index": 4,
             "score": 39,
-            "validators": []
             "text": "$1\\le n\\le  2\\times 10^5$",
+            "validators": ["validator.cpp 200000"]
         },
         "nlogn": {
             "index": 5,
             "score": 13,
             "text": "無限制",
-            "validators": []
+            "validators": ["validator.cpp 2000000"]
         }
     }
 }
