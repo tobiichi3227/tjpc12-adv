@@ -12,26 +12,26 @@
         "n3": {
             "index": 1,
             "score": 12,
-            "text": "$0\\le n\\le  5\\times 10^2$",
             "validators": []
+            "text": "$1\\le n\\le  5\\times 10^2$",
         },
         "n2logn": {
             "index": 2,
             "score": 30,
-            "text": "$0\\le n\\le  5\\times 10^3$",
             "validators": []
+            "text": "$1\\le n\\le  5\\times 10^3$",
         },
         "n2": {
             "index": 3,
             "score": 5,
-            "text": "$0\\le n\\le  2\\times 10^4$",
             "validators": []
+            "validators": ["validator.cpp 20000"]
         },
         "nlog2n": {
             "index": 4,
             "score": 39,
-            "text": "$0\\le n\\le  2\\times 10^5$",
             "validators": []
+            "text": "$1\\le n\\le  2\\times 10^5$",
         },
         "nlogn": {
             "index": 5,
