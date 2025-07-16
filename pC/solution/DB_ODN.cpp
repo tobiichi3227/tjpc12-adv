@@ -42,6 +42,7 @@ int main()
                 mx[idx]=tmp;
                 s-=mn;
             }
+            else s-=tmp;
             idx=n;
         }
         if(s*s>=x)
