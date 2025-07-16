@@ -18,11 +18,11 @@
 		"verdict": "correct",
 		"except": {"nlogn": "time_limit", "nlog2n": "time_limit", "n2": "time_limit"}
 	},
-	"n2logn.cpp_2": {
+	"n2logn.cpp": {
 		"verdict": "correct",
 		"except": {"nlogn": "time_limit", "nlog2n": "time_limit", "n2": "time_limit"}
 	},
-	"n3": {
+	"n3.cpp": {
 		"verdict": "correct",
 		"except": {"nlogn": "time_limit", "nlog2n": "time_limit", "n2": "time_limit", "n2logn": "time_limit"}
 	}
