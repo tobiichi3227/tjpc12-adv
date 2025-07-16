@@ -11,6 +11,4 @@ exclude:
   - pE/tests/
   - pF/scripts/
   - pF/tests/
-  - pG/scripts/
-  - pG/tests/
 # NEWPROBLEM
