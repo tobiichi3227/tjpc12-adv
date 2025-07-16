@@ -1,17 +1,41 @@
 {
     "global_validators": [
-        "validator.cpp"
+        
     ],
     "subtasks": {
         "samples": {
             "index": 0,
-            "score": 0,
+            "score": 1,
             "text": "範例輸入輸出",
             "validators": []
         },
-        "full": {
+        "smdn0": {
             "index": 1,
-            "score": 100,
+            "score": 5,
+            "text": "d \\le 10^3, n = 0",
+            "validators": []
+        },
+        "smd": {
+            "index": 2,
+            "score": 13,
+            "text": "d \\le 10^3",
+            "validators": []
+        },
+        "dn0": {
+            "index": 3,
+            "score": 20,
+            "text": "n = 0",
+            "validators": []
+        },
+        "dn1": {
+            "index": 4,
+            "score": 20,
+            "text": "n = 1",
+            "validators": []
+        },
+        "d": {
+            "index": 5,
+            "score": 41,
             "text": "無額外限制",
             "validators": []
         }
