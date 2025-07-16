@@ -9,8 +9,7 @@ int main(int argc, char* argv[]) {
 	int upper_n = atoi(argv[1]);
     int n = inf.readInt(1, upper_n, "n");
     inf.readSpace();
-    int64_t x = inf.readLong(0LL, static_cast<int64_t>(1e13), "x");
-    ensuref(x <= static_cast<int64_t>(n) * static_cast<int64_t>(n - 1) / 2LL, "inversion pair should not greater than n * (n-1)/2");
+    inf.readLong(0LL, static_cast<int64_t>(1e13), "x");
     inf.readEoln();
 
     for (int i = 0; i < n; i++) {
