@@ -17,11 +17,11 @@
 輸出 DB0917 的表現值最快什麼時候可以超過 x, 如果無論如何都無法超過 x ，請輸出 -1
 
 ## 輸入限制
-$$0 \leq s \leq 10^9$$
-$$1 \leq d \leq 10^6$$
-$$0 \leq n \leq d$$
-$$0 \leq x \leq 10^{18}$$
-$$0 \leq k_i \leq 10^6\ (1 \leq i \leq d)$$
+- $0 \leq s \leq 10^9$
+- $1 \leq d \leq 10^6$
+- $0 \leq n \leq d$
+- $0 \leq x \leq 10^{18}$
+- $0 \leq k_i \leq 10^6\ (1 \leq i \leq d)$
 
 ## 子任務
 \subtasks
