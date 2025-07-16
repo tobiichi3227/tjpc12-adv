@@ -1,6 +1,6 @@
 {
     "global_validators": [
-        
+
     ],
     "subtasks": {
         "samples": {
@@ -12,25 +12,25 @@
         "smdn0": {
             "index": 1,
             "score": 5,
-            "text": "d \\le 10^3, n = 0",
+            "text": "$d \\le 10^3, n = 0$",
             "validators": []
         },
         "smd": {
             "index": 2,
             "score": 13,
-            "text": "d \\le 10^3",
+            "text": "$d \\le 10^3$",
             "validators": []
         },
         "dn0": {
             "index": 3,
             "score": 20,
-            "text": "n = 0",
+            "text": "$n = 0$",
             "validators": []
         },
         "dn1": {
             "index": 4,
             "score": 20,
-            "text": "n = 1",
+            "text": "$n = 1$",
             "validators": []
         },
         "d": {
