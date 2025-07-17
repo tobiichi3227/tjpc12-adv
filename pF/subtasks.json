@@ -11,7 +11,7 @@
         "sn": {
             "index": 1,
             "score": 5,
-            "text": "$N \le 10$",
+            "text": "N <= 10",
             "validators": []
         },
         "full": {
