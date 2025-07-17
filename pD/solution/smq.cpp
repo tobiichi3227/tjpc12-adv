@@ -9,10 +9,10 @@ int main(){
     while(q--){
         cin>>tem;
         ans=0;
-    		for(int j=1;j*j<=tem;j++){
-    			if(j*j==tem) ans++;
-    			else if(tem%j==0) ans+=2;
-    		}
-    		cout<<ans<<'\n';
+        for(int j=1;j*j<=tem;j++){
+            if(j*j==tem) ans++;
+            else if(tem%j==0) ans+=2;
+        }
+        cout<<ans<<'\n';
     }
 }
