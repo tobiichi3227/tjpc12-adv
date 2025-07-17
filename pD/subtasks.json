@@ -12,7 +12,7 @@
         "smn": {
             "index": 1,
             "score": 24,
-            "text": "$n \\le 10^4$",
+            "text": "$n \\le 10^6$",
             "validators": []
         },
         "smq": {
