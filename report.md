@@ -14,7 +14,7 @@
 | memory_limit |  512 | 512 | 512 | 512 | 512 | 512 |
 | time_limit |  1.0 | 1.0 | 1.0 | 3.0 | 1.0 | 1.0 |
 | has_checker |  False | False | False | False | False | False |
-| gen | [:white_check_mark:](pA/gen) | [:x:](pB/gen)<br>[gen.cpp](pB/gen/gen.cpp)<br>[data](pB/gen/data) | [:x:](pC/gen)<br>[data](pC/gen/data) | [:x:](pD/gen)<br>[gen.cpp](pD/gen/gen.cpp)<br>[data](pD/gen/data) | [:x:](pE/gen)<br>[gen.cpp](pE/gen/gen.cpp)<br>[data](pE/gen/data) | [:x:](pF/gen)<br>[gen.cpp](pF/gen/gen.cpp)<br>[data](pF/gen/data) |
+| gen | [:white_check_mark:](pA/gen) | [:x:](pB/gen)<br>[gen.cpp](pB/gen/gen.cpp)<br>[data](pB/gen/data) | [:x:](pC/gen)<br>[data](pC/gen/data) | [:x:](pD/gen)<br>[data](pD/gen/data) | [:x:](pE/gen)<br>[gen.cpp](pE/gen/gen.cpp)<br>[data](pE/gen/data) | [:x:](pF/gen)<br>[gen.cpp](pF/gen/gen.cpp)<br>[data](pF/gen/data) |
 | solution | [:white_check_mark:](pA/solution) | [:white_check_mark:](pB/solution) | [:white_check_mark:](pC/solution) | [:white_check_mark:](pD/solution) | [:x:](pE/solution)<br>[correct.cpp](pE/solution/correct.cpp) | [:white_check_mark:](pF/solution) |
 | validator | [:white_check_mark:](pA/validator) | [:white_check_mark:](pB/validator) | [:white_check_mark:](pC/validator) | [:x:](pD/validator)<br>[validator.cpp](pD/validator/validator.cpp) | [:x:](pE/validator)<br>[validator.cpp](pE/validator/validator.cpp) | [:x:](pF/validator)<br>[validator.cpp](pF/validator/validator.cpp) |
 | subtasks.json<br>global_validators |  [:white_check_mark:](pA/subtasks.json) | [:white_check_mark:](pB/subtasks.json) | [:white_check_mark:](pC/subtasks.json) | [:warning:](pD/subtasks.json) Not set | [:warning:](pE/subtasks.json) Not set | [:warning:](pF/subtasks.json) Not set |
