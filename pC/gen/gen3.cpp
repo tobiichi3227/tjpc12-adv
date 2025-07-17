@@ -13,15 +13,15 @@ int main(int argc, char* argv[]) {
 	long long k,tmp;
 	if(d==1000){
 		s = rnd.next(0ll,100000ll);
-		x = rnd.next((s+1000)*(s+1000),(s+1000000000ll)*(s+1000000000ll));
+		x = rnd.next((s+1000ll)*(s+1000ll),(s+1000000000ll)*(s+1000000000ll));
 	}else{
 		s = rnd.next(0ll, 1000000000ll);
-		x = rnd.next((s+100000)*(s+100000),1000000000ll*1000000000ll);
+		x = rnd.next((s+100000ll)*(s+100000ll),1000000000ll*1000000000ll);
 	}
 	d = rnd.next(1,d);
 	if(n!=0 && n!=1) n = rnd.next(0,min(n,d));
 	cout<<s<<" "<<d<<" "<<n<<" "<<x<<'\n';
-	tmp = (sqrt(x)-s+1)/d;
+	tmp = (sqrt(x)-s+rnd(1,d+100))/(d+n);
 	
 	for(int i=0;i<d;i++){
 		k = tmp + rnd.next(0,1);
