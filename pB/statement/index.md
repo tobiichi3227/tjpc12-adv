@@ -12,7 +12,6 @@
 
 $i<j$ 且 a[i]>a[j]
 
-\clearpage
 
 ## 輸入
 
@@ -29,10 +28,10 @@ $A_1,\ A_2,\ A_3,\ ... ,\ A_N$
 - $X \space (0 \le X \le 10^{13})$
 - $1 \le A_i \le N (1 \le i \le N)$
 
+\clearpage
+
 ## 子任務
 \subtasks
-
-\clearpage
 
 ## 範例輸入
 \testfile{0-01.in}
