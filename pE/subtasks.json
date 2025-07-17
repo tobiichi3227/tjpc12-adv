@@ -1,6 +1,5 @@
 {
-    "global_validators": [
-    ],
+    "global_validators": [],
     "subtasks": {
         "samples": {
             "index": 0,
@@ -17,7 +16,7 @@
         "dp-n-gas": {
             "index": 2,
             "score": 37,
-            "text": "$N \\le 10,\\ \\displaystyle\\sum_{i=1}^{N} max\\{H_i,\\ T_i\\} \\le 100$",
+            "text": "$N \\le 10,\\ \\displaystyle\\sum_{i=1}^{N} max\\{H_i,\\ T_i\\} \\le 1000$",
             "validators": []
         },
         "dp-n-joy": {
