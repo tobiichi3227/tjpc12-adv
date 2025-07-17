@@ -47,7 +47,6 @@ int c = a^b;
 ## 子任務
 \subtasks
 
-\clearpage
 
 ## 範例輸入
 \testfile{0-01.in}
