@@ -39,6 +39,7 @@ int main(int argc, char* argv[]) {
 		for(int i=1;i<=10000000;i++){
 			cout<<j<<'\n';
 			j+=2999999;
+			j%=20000000;
 		}
 	}else{
 		cout<<20000000<<" "<<10000000<<'\n';
