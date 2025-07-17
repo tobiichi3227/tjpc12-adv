@@ -18,7 +18,7 @@ int main(int argc, char* argv[]) {
 		x = rnd.next(0ll,1000000000ll*1000000000ll);
 	}
 	d = rnd.next(1,d);
-	if(n!=0 || n!=1) n = rnd.next(0,min(n,d));
+	if(n!=0 && n!=1) n = rnd.next(0,min(n,d));
 	cout<<s<<" "<<d<<" "<<n<<" "<<x<<'\n';
 	for(int i=0;i<d;i++){
 		if(d<1000){
