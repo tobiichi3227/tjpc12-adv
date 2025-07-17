@@ -28,6 +28,8 @@ int c = a^b;
 ```
 就是代表 $c = a \oplus b$
 
+\clearpage
+
 ## 輸入
 
 第一行給定一個數字 $N$ ， 代表數列的長度
