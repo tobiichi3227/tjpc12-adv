@@ -1,15 +1,14 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-const int nmax = 20000000;
-int minp[nmax+5];
-int pnum[nmax+5];
-int divn[nmax+5];
-vector<int> prime;
+vector<int> minp, pnum, divn,prime;
 
-void sieve(){
+void sieve(const int& nmax){
     int tem;
-    prime.reserve(nmax+100);
+    prime.reserve(nmax);
+    minp.resize(nmax+5);
+    pnum.resize(nmax+5);
+    divn.resize(nmax+5);
     pnum[1]=minp[1]=0;
     divn[1]=1;
     for(int i=2;i<=nmax;++i){
@@ -38,9 +37,9 @@ void sieve(){
 int main(){
     cin.tie(0);
     ios::sync_with_stdio(0);
-    sieve();
-    int q,tem;
-    cin>>q;
+    int n,q,tem;
+    cin>>n>>q;
+    sieve(n);
     while(q--){
         cin>>tem;
         cout<<divn[tem]<<'\n';
