@@ -18,16 +18,18 @@ int main()
     ll n, m, sum=0, times;
     cin >> n >> m;
     times=n-1;
-    p.assign()
+    p.assign(n+1, 0);
+    for(int i=1;i<=n;i++) p[i]=i;
     vector<array<long long, 3>> v(m);
-    for(auto [w, u, v] : v) cin >> w >> u >> v, sum+=w;
+    for(auto& [w, u, y] : v) cin >> u >> y >> w, sum+=w;
     sort(v.rbegin(), v.rend());
-    for(auto [w, u, v] : v)
+    for(auto& [w, u, y] : v)
     {
-        if(fp(u)==fp(v)) continue;
+        //cout << w<<" " << u<<" "<<y<<'\n';
+        if(fp(u)==fp(y)) continue;
         else
         {
-            p[fp(u)]=fp(v);
+            p[fp(u)]=fp(y);
             sum-=w;
             times--;
             if(!times) break;
