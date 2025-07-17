@@ -4,7 +4,7 @@
 	},
 	"smn.cpp": {
 		"verdict": "correct",
-		"except": {"smq": "time_limit", "nq": "runtime_error"}
+		"except": {"smq": "time_limit", "nq": "time_limit"}
 	},
 	"smq.cpp": {
 		"verdict": "correct",
