@@ -4,5 +4,17 @@
 manual example-1.in
 
 @subtask full
-gen	20
-gen	30
+t1.in
+t2.in
+t3.in
+t4.in
+t5.in
+t6.in
+t7.in
+t8.in
+t9.in
+t10.in
+t11.in
+t12.in
+t13.in
+t14.in
