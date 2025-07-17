@@ -21,7 +21,7 @@ int main(int argc, char* argv[]) {
 	d = rnd.next(1,d);
 	if(n!=0 && n!=1) n = rnd.next(0,min(n,d));
 	cout<<s<<" "<<d<<" "<<n<<" "<<x<<'\n';
-	tmp = (sqrt(x)-s+rnd(1,d+100))/(d+n);
+	tmp = (sqrt(x)-s+rnd.next(1,d+100))/(d+n);
 	
 	for(int i=0;i<d;i++){
 		k = tmp + rnd.next(0,1);
