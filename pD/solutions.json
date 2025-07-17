@@ -1,5 +1,17 @@
 {
 	"correct.cpp": {
 		"verdict": "model_solution"
+	},
+	"smn.cpp": {
+		"verdict": "correct",
+		"except": {"smq": "time_limit", "nq": "runtime_error"}
+	},
+	"smq.cpp": {
+		"verdict": "correct",
+		"except": {"nq": "time_limit", "smn": "time_limit"}
+	},
+	"nlogn.cpp": {
+		"verdict": "correct",
+		"except": {"nq": "time_limit"}
 	}
 }
