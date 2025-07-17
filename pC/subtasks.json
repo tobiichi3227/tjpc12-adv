@@ -16,7 +16,7 @@
             "score": 5,
             "text": "$d \\le 10^3,\\ n = 0$",
             "validators": [
-                "validator.cpp 100 0"
+                "validator.cpp 1000 0"
             ]
         },
         "smd": {
@@ -24,7 +24,7 @@
             "score": 13,
             "text": "$d \\le 10^3$",
             "validators": [
-                "validator.cpp 100 1000000"
+                "validator.cpp 1000 1000000"
             ]
         },
         "dn0": {
