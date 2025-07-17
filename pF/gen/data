@@ -4,17 +4,17 @@
 manual example-1.in
 
 @subtask full
-t1.in
-t2.in
-t3.in
-t4.in
-t5.in
-t6.in
-t7.in
-t8.in
-t9.in
-t10.in
-t11.in
-t12.in
-t13.in
-t14.in
+manual t1.in
+manual t2.in
+manual t3.in
+manual t4.in
+manual t5.in
+manual t6.in
+manual t7.in
+manual t8.in
+manual t9.in
+manual t10.in
+manual t11.in
+manual t12.in
+manual t13.in
+manual t14.in
