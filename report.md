@@ -20,7 +20,7 @@
 | subtasks.json<br>global_validators |  [:white_check_mark:](pA/subtasks.json) | [:white_check_mark:](pB/subtasks.json) | [:white_check_mark:](pC/subtasks.json) | [:warning:](pD/subtasks.json) Not set | [:warning:](pE/subtasks.json) Not set | [:warning:](pF/subtasks.json) Not set |
 | tests | [:white_check_mark:](pA/tests) | [:white_check_mark:](pB/tests) | [:white_check_mark:](pC/tests) | [:x:](pD/tests)<br>[Auto build disabled](pD/gen/DISABLE_AUTO_BUILD) | [:x:](pE/tests)<br>[Auto build disabled](pE/gen/DISABLE_AUTO_BUILD) | [:white_check_mark:](pF/tests) |
 | statement/index.md | [:white_check_mark:](pA/statement/index.md) | [:white_check_mark:](pB/statement/index.md) | [:white_check_mark:](pC/statement/index.md) | [:x:](pD/statement/index.md) | [:white_check_mark:](pE/statement/index.md) | [:white_check_mark:](pF/statement/index.md) |
-| statement/index.pdf | [:white_check_mark:](pA/statement/index.pdf) | [:white_check_mark:](pB/statement/index.pdf) | [:white_check_mark:](pC/statement/index.pdf) | [:white_check_mark:](pD/statement/index.pdf)<br>[Auto build disabled](pD/statement/DISABLE_AUTO_BUILD) | [:white_check_mark:](pE/statement/index.pdf) | [:white_check_mark:](pF/statement/index.pdf) |
+| statement/index.pdf | [:white_check_mark:](pA/statement/index.pdf) | [:white_check_mark:](pB/statement/index.pdf) | [:white_check_mark:](pC/statement/index.pdf) | [:white_check_mark:](pD/statement/index.pdf) | [:white_check_mark:](pE/statement/index.pdf) | [:white_check_mark:](pF/statement/index.pdf) |
 
 <!-- progress end -->
 
