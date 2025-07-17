@@ -2,7 +2,7 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics {valorant-omen.png}
+\includegraphics {valorant-omen.jpg}
 \caption{打爆？哥之後跳舞慶祝的Omen.}
 \end{figure}
 
