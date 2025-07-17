@@ -48,7 +48,7 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=2in]{pF.jpg}
+\includegraphics[width=2in]{pF.png}
 \caption{範測地圖.}
 \end{figure}
 
