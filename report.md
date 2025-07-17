@@ -7,12 +7,12 @@
 
 | | A | B | C | D | E | F |
 | --- | --- | --- | --- | --- | --- | --- |
-| contest_name |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:white_check_mark:](pC/problem.json) | [:x:](pD/problem.json) | [:white_check_mark:](pE/problem.json) | [:white_check_mark:](pF/problem.json) |
+| contest_name |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:white_check_mark:](pC/problem.json) | [:white_check_mark:](pD/problem.json) | [:white_check_mark:](pE/problem.json) | [:white_check_mark:](pF/problem.json) |
 | problem_label |  [:white_check_mark:](pA/problem.json) | [:white_check_mark:](pB/problem.json) | [:white_check_mark:](pC/problem.json) | [:white_check_mark:](pD/problem.json) | [:white_check_mark:](pE/problem.json) | [:white_check_mark:](pF/problem.json) |
-| name |  [:white_check_mark:](pA/problem.json)<br>TJPC12-Adv-XOR | [:white_check_mark:](pB/problem.json)<br>TJPC12-Adv-Sort | [:white_check_mark:](pC/problem.json)<br>TJCP12-Adv-Leveing-Way | [:x:](pD/problem.json) | [:white_check_mark:](pE/problem.json)<br>TJPC12-Adv-Tiles | [:white_check_mark:](pF/problem.json)<br>TJPC12-Adv-Why-Did-I-Die-Again |
-| title |  [:white_check_mark:](pA/problem.json)<br>XOR Min | [:white_check_mark:](pB/problem.json)<br>最短排序 | [:white_check_mark:](pC/problem.json)<br>升級之道 | [:x:](pD/problem.json) | [:white_check_mark:](pE/problem.json)<br>打瓦 | [:white_check_mark:](pF/problem.json)<br>我怎麼又死了 |
+| name |  [:white_check_mark:](pA/problem.json)<br>TJPC12-Adv-XOR | [:white_check_mark:](pB/problem.json)<br>TJPC12-Adv-Sort | [:white_check_mark:](pC/problem.json)<br>TJCP12-Adv-Leveing-Way | [:white_check_mark:](pD/problem.json)<br>TJCP12-Adv-Count-Nums | [:white_check_mark:](pE/problem.json)<br>TJPC12-Adv-Tiles | [:white_check_mark:](pF/problem.json)<br>TJPC12-Adv-Why-Did-I-Die-Again |
+| title |  [:white_check_mark:](pA/problem.json)<br>XOR Min | [:white_check_mark:](pB/problem.json)<br>最短排序 | [:white_check_mark:](pC/problem.json)<br>升級之道 | [:white_check_mark:](pD/problem.json)<br>JKdelta不會算數 | [:white_check_mark:](pE/problem.json)<br>打瓦 | [:white_check_mark:](pF/problem.json)<br>我怎麼又死了 |
 | memory_limit |  512 | 512 | 512 | 512 | 512 | 512 |
-| time_limit |  1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0 |
+| time_limit |  1.0 | 1.0 | 1.0 | 3.0 | 1.0 | 1.0 |
 | has_checker |  False | False | False | False | False | False |
 | gen | [:white_check_mark:](pA/gen) | [:x:](pB/gen)<br>[gen.cpp](pB/gen/gen.cpp)<br>[data](pB/gen/data) | [:x:](pC/gen)<br>[data](pC/gen/data) | [:x:](pD/gen)<br>[gen.cpp](pD/gen/gen.cpp)<br>[data](pD/gen/data) | [:x:](pE/gen)<br>[gen.cpp](pE/gen/gen.cpp)<br>[data](pE/gen/data) | [:x:](pF/gen)<br>[gen.cpp](pF/gen/gen.cpp)<br>[data](pF/gen/data) |
 | solution | [:white_check_mark:](pA/solution) | [:white_check_mark:](pB/solution) | [:white_check_mark:](pC/solution) | [:x:](pD/solution)<br>[correct.cpp](pD/solution/correct.cpp) | [:x:](pE/solution)<br>[correct.cpp](pE/solution/correct.cpp) | [:white_check_mark:](pF/solution) |
