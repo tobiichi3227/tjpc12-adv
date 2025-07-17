@@ -3,6 +3,8 @@
 using namespace std;
 
 int main(int argc, char* argv[]) {
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(nullptr);
 	registerGen(argc, argv, 1);
 
 	int n = atoi(argv[1]);
