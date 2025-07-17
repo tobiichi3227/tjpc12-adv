@@ -24,7 +24,7 @@ int main(int argc, char* argv[]) {
 	tmp = (sqrt(x)-s+rnd.next(1,d+100))/(d+n);
 	
 	for(int i=0;i<d;i++){
-		k = tmp + rnd.next(0,1);
+		k = min(tmp + rnd.next(0,1), rnd.next(500000ll,1000000ll));
 		cout<<k<<" \n"[i==d-1];
 	}
 	return 0;
