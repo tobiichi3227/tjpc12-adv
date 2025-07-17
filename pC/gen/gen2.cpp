@@ -13,6 +13,7 @@ int main(int argc, char* argv[]) {
 		cout << 1;
 		if(i!=d) cout << ' ';
 	}
+	cout << '\n';
 	return 0;
 }
 // run now! burn Tobiichi's PC!!!
