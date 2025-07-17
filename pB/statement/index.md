@@ -12,6 +12,8 @@
 
 $i<j$ 且 a[i]>a[j]
 
+\clearpage
+
 ## 輸入
 
 $N\ \ X$
