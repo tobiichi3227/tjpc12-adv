@@ -1,10 +1,10 @@
 # TODO: 題目名稱
 
-<!-- \begin{figure}[h]
+\begin{figure}[h]
 \centering
-\includegraphics[width=2in]{TODO.jpg}
+\includegraphics[width=2in]{valorant-omen.gif}
 \caption{TODO: 圖片說明}
-\end{figure} -->
+\end{figure}
 
 TODO: 題目敘述
 
