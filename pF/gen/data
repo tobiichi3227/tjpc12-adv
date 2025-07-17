@@ -3,12 +3,14 @@
 @subtask samples
 manual example-1.in
 
-@subtask full
+@subtask sn
 manual 1.in
 manual 2.in
 manual 3.in
 manual 4.in
 manual 5.in
+
+@subtask full
 manual 6.in
 manual 7.in
 manual 8.in
