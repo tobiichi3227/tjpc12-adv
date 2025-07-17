@@ -16,8 +16,8 @@
 | has_checker |  False | False | False | False | False | False |
 | gen | [:white_check_mark:](pA/gen) | [:x:](pB/gen)<br>[gen.cpp](pB/gen/gen.cpp)<br>[data](pB/gen/data) | [:x:](pC/gen)<br>[data](pC/gen/data) | [:x:](pD/gen)<br>[gen.cpp](pD/gen/gen.cpp)<br>[data](pD/gen/data) | [:x:](pE/gen)<br>[gen.cpp](pE/gen/gen.cpp)<br>[data](pE/gen/data) | [:x:](pF/gen)<br>[gen.cpp](pF/gen/gen.cpp)<br>[data](pF/gen/data) |
 | solution | [:white_check_mark:](pA/solution) | [:white_check_mark:](pB/solution) | [:white_check_mark:](pC/solution) | [:x:](pD/solution)<br>[correct.cpp](pD/solution/correct.cpp) | [:x:](pE/solution)<br>[correct.cpp](pE/solution/correct.cpp) | [:x:](pF/solution)<br>[correct.cpp](pF/solution/correct.cpp) |
-| validator | [:white_check_mark:](pA/validator) | [:white_check_mark:](pB/validator) | [:x:](pC/validator)<br>[validator.cpp](pC/validator/validator.cpp) | [:x:](pD/validator)<br>[validator.cpp](pD/validator/validator.cpp) | [:x:](pE/validator)<br>[validator.cpp](pE/validator/validator.cpp) | [:x:](pF/validator)<br>[validator.cpp](pF/validator/validator.cpp) |
-| subtasks.json<br>global_validators |  [:white_check_mark:](pA/subtasks.json) | [:white_check_mark:](pB/subtasks.json) | [:warning:](pC/subtasks.json) Not set | [:white_check_mark:](pD/subtasks.json) | [:warning:](pE/subtasks.json) Not set | [:white_check_mark:](pF/subtasks.json) |
+| validator | [:white_check_mark:](pA/validator) | [:white_check_mark:](pB/validator) | [:white_check_mark:](pC/validator) | [:x:](pD/validator)<br>[validator.cpp](pD/validator/validator.cpp) | [:x:](pE/validator)<br>[validator.cpp](pE/validator/validator.cpp) | [:x:](pF/validator)<br>[validator.cpp](pF/validator/validator.cpp) |
+| subtasks.json<br>global_validators |  [:white_check_mark:](pA/subtasks.json) | [:white_check_mark:](pB/subtasks.json) | [:white_check_mark:](pC/subtasks.json) | [:white_check_mark:](pD/subtasks.json) | [:warning:](pE/subtasks.json) Not set | [:white_check_mark:](pF/subtasks.json) |
 | tests | [:white_check_mark:](pA/tests) | [:white_check_mark:](pB/tests) | [:white_check_mark:](pC/tests) | [:x:](pD/tests)<br>[Auto build disabled](pD/gen/DISABLE_AUTO_BUILD) | [:x:](pE/tests)<br>[Auto build disabled](pE/gen/DISABLE_AUTO_BUILD) | [:x:](pF/tests)<br>[Auto build disabled](pF/gen/DISABLE_AUTO_BUILD) |
 | statement/index.md | [:white_check_mark:](pA/statement/index.md) | [:white_check_mark:](pB/statement/index.md) | [:white_check_mark:](pC/statement/index.md) | [:x:](pD/statement/index.md) | [:white_check_mark:](pE/statement/index.md) | [:x:](pF/statement/index.md) |
 | statement/index.pdf | [:white_check_mark:](pA/statement/index.pdf) | [:white_check_mark:](pB/statement/index.pdf) | [:white_check_mark:](pC/statement/index.pdf) | [:white_check_mark:](pD/statement/index.pdf)<br>[Auto build disabled](pD/statement/DISABLE_AUTO_BUILD) | [:white_check_mark:](pE/statement/index.pdf) | [:white_check_mark:](pF/statement/index.pdf) |
@@ -31,7 +31,7 @@
 | --- | --- | --- | --- | --- | --- |
 | A | 100<br>無額外限制 |
 | B | 12<br>$1\le n\le  5\times 10^2$ | 30<br>$1\le n\le  5\times 10^3$ | 5<br>$1\le n\le  2\times 10^4$ | 39<br>$1\le n\le  2\times 10^5$ | 13<br>無限制 |
-| C | 5<br>$d \le 10^3, n = 0$ | 13<br>$d \le 10^3$ | 20<br>$n = 0$ | 20<br>$n = 1$ | 41<br>無額外限制 |
+| C | 5<br>$d \le 10^3,\ n = 0$ | 13<br>$d \le 10^3$ | 20<br>$n = 0$ | 20<br>$n = 1$ | 41<br>無額外限制 |
 | D | 100<br>無額外限制 |
 | E | 5<br>$N \le 10,\ \displaystyle\sum_{i=1}^{N} H_i < 10$ | 37<br>$N \le 10,\ \displaystyle\sum_{i=1}^{N} max\{H_i,\ T_i\} \le 100$ | 58<br>無額外限制 |
 | F | 100<br>無額外限制 |
