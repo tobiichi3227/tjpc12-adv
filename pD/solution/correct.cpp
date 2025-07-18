@@ -22,7 +22,7 @@ void sieve(const int& nmax){
             tem = p*i;
             if(tem>nmax) break;
             minp[tem]=p;
-            if(i%p==0){
+            if(minp[i]==p){
                 pnum[tem]=pnum[i]+1;
                 divn[tem]=divn[i]/(pnum[i]+1)*(pnum[tem]+1);
                 break;
