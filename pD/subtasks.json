@@ -1,31 +1,39 @@
 {
     "global_validators": [
-        
+        "validator.cpp 20000000 10000000"
     ],
     "subtasks": {
         "samples": {
             "index": 0,
             "score": 1,
             "text": "範例輸入輸出",
-            "validators": []
+            "validators": [
+                "validator.cpp 20000000 10000000"
+            ]
         },
         "smn": {
             "index": 1,
             "score": 24,
             "text": "$n \\le 10^5$",
-            "validators": []
+            "validators": [
+                "validator.cpp 100000 10000000"
+            ]
         },
         "smq": {
             "index": 2,
             "score": 25,
             "text": "$q \\le 10^4$",
-            "validators": []
+            "validators": [
+                "validator.cpp 20000000 10000"
+            ]
         },
         "nq": {
             "index": 3,
             "score": 50,
             "text": "無額外限制",
-            "validators": []
+            "validators": [
+                "validator.cpp 20000000 10000000"
+            ]
         }
     }
 }
