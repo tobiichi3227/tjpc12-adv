@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-#pragma GCC optimize("O3")
 
 int read() {
 	int x=0,y=0;char c=0;
