@@ -3,8 +3,6 @@
 using namespace std;
 
 int main(int argc, char* argv[]) {
-    std::ios::sync_with_stdio(false);
-    std::cin.tie(nullptr);
 	registerGen(argc, argv, 1);
 
 	int n = atoi(argv[1]);
@@ -37,7 +35,7 @@ int main(int argc, char* argv[]) {
 		cout<<20000000<<" "<<10000000<<'\n';
 		int j=1;
 		for(int i=1;i<=10000000;i++){
-			cout<<j<<'\n';
+			cout<<(j==0?20000000:j)<<'\n';
 			j+=2999999;
 			j%=20000000;
 		}
