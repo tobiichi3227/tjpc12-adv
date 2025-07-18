@@ -3,6 +3,23 @@
 @subtask samples
 manual example-1.in
 
-@subtask full
-gen	20
-gen	30
+@subtask brute
+gen1 1
+gen1 2
+gen1 3
+gen1 4
+gen1 5
+
+@subtask dp-n-gas
+gen2 1
+gen2 2
+gen2 3
+gen2 4
+gen2 5
+
+@subtask dp-n-joy
+gen3 1
+gen3 2
+gen3 3
+gen3 4
+gen3 5
