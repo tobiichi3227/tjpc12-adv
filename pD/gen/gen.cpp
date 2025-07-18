@@ -29,7 +29,7 @@ int main(int argc, char* argv[]) {
 	}else if(statu==3){
 		cout<<20000000<<" "<<10000000<<'\n';
 		for(int i=1;i<=10000000;i++){
-			cout<<(i&1?i:n-i)<<'\n';
+			cout<<(i&1?i:20000000-i)<<'\n';
 		}
 	}else if(statu==4){
 		cout<<20000000<<" "<<10000000<<'\n';
