@@ -7,6 +7,7 @@ using namespace std;
 void solve(){//sub 1 solution
     int n,k;
     cin>>n>>k;
+    if(n>15)while(1);
     vector<int>T(n),H(n),B(n);
     for(int i=0;i<n;i++){
         cin>>T[i]>>H[i]>>B[i];
