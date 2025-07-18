@@ -1,5 +1,12 @@
 {
-	"correct.cpp": {
-		"verdict": "model_solution"
-	}
+    "correct.cpp": {
+        "verdict": "model_solution"
+    },
+    "asdfg_TLE.cpp": {
+        "verdict": "correct",
+        "except": {
+            "dp-n-gas": "time_limit",
+            "dp-n-joy": "time_limit"
+        }
+    }
 }
