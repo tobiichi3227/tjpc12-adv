@@ -42,9 +42,9 @@ asdfg1021 有強迫症，必須照給定順序打瓦，但是遇到不想打的�
 輸出 asdfg1021 停止打瓦前的最大歡愉值
 
 ## 輸入限制
-- $N \le 10^3$
+- $1 \le N \le 10^3$
 - $\displaystyle\sum_{i=1}^{N}{H_i} \le 10^3$
-- $0 \le K,\ H,\ B \le 8 \times 10^7$
+- $0 \le T,\ H,\ B \le 8 \times 10^7$
 
 ## 子任務
 \subtasks
