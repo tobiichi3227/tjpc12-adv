@@ -12,7 +12,8 @@ int main(int argc, char* argv[]) {
     for (int i = 0; i < n; i++) {
         int a,b,c;
         a=rnd.next(1, 100);
-        b=rnd.next(1, remain);
+        b=rnd.next(0, remain);
+	remain-=b;
         c=rnd.next(1, 100);
         cout << a<<' '<<b<<' '<<c<<' ' << " \n"[i == n - 1];
     }
